@@ -92,7 +92,6 @@ C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcore
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.csproj.CoreCompileInputs.cache
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.csproj.CopyComplete
-C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
@@ -109,10 +108,13 @@ C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcore
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faalam\source\repos\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
